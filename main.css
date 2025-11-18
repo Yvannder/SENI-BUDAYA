@@ -1,0 +1,216 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+body {
+    background: url(Torn\ newspaper\ background\ _\ Premium\ Photo.jpg);
+    background-size: 65%;
+    justify-content: center;
+    align-items: center;
+}
+
+
+header {
+    height: 80px;
+    box-shadow: 0 3px 10px rgb(1, 1, 1);
+    background-color: rgba(240, 248, 255, 0.395);
+}
+
+.atas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -60px;
+}
+
+
+.gambar {
+    padding: 10px;
+}
+
+.judul {
+    position: relative;
+    font-size: larger;
+    color: rgb(2, 1, 76);
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title2 {
+    box-shadow: 0 8px 10px rgb(63, 63, 63);
+    padding: 20px 100px;
+    border-radius: 20px;
+    color: rgb(5, 0, 82);
+    background-color: rgba(255, 255, 255, 0.525);
+    
+}
+
+.title3 {
+    text-align: center;
+}
+
+.all-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+
+.cello {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 550px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    border-radius: 30px;
+    font-size: larger;
+    background-color: rgba(255, 255, 255, 0.658);
+}
+
+
+.gam {
+    border-radius: 50px;
+}
+
+.text {
+    line-height: 40px;
+    letter-spacing: 1.5px;
+    color: rgb(0, 1, 70);
+    margin-left: 20px;
+    font-weight: bolder;
+}
+
+.tombol1 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+
+.tombol {
+    padding: 15px 50px;
+    background-color: rgb(108, 80, 73);
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    width: 200px;
+    box-shadow: 0 0 10px rgb(108, 80, 73);
+    transition: 0.5s ;
+}
+
+.tombol1 :hover {
+    padding: 20px 60px;
+    background-color: rgba(255, 255, 255, 0.196);
+    color: rgb(108, 80, 73);
+    border: 2px solid rgb(108, 80, 73);
+    box-shadow: 0 0 10px rgb(108, 80, 73);
+    font-size: larger;
+    font-weight: bold;
+}
+
+.kotak {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kotakpensil {
+    border-radius: 20px;
+    box-shadow: 0 0 10px white;
+}
+
+.all1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    line-height: 30px;
+    color: rgb(112, 112, 112);
+    font-weight: bold;
+}
+
+.dukur {
+    color: rgb(4, 4, 94);
+}
+
+.dukurr {
+    color: rgb(4, 4, 94);
+    justify-content: center;
+    text-align: center;
+}
+
+.border {
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 60px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 10px white;
+}
+
+.borderr {
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 40px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 10px white;
+}
+
+.allin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 50px;
+}
+
+.borderrr {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 40px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 10px white;
+    text-align: left;
+}
+
+.jarak {
+    line-height: 40px;
+}
+
+.gambarr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.gambar1 {
+    border-radius: 15px;
+    box-shadow: 0 0 15px white;
+}
+
+
+.tombo2 {
+    padding: 15px 100px;
+    background-color: rgb(211, 211, 211);
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0 0 10px white;
+}
+
